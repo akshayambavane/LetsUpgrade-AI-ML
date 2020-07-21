@@ -1,0 +1,160 @@
+Null Hypothesis: There is no Significant Correlation between Attrition and Age
+Alternate Hypothesis: There is Significant Correlation between Attrition and Age
+
+Correlation: -0.15920500686577965 P Value: 1.996801615886744e-26 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and Age
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and BusinessTravel
+Alternate Hypothesis: There is Significant Correlation between Attrition and BusinessTravel
+
+Correlation: 7.377694602225034e-05 P Value: 0.9960919945437704 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and BusinessTravel
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and DistanceFromHome
+Alternate Hypothesis: There is Significant Correlation between Attrition and DistanceFromHome
+
+Correlation: -0.009730141010179674 P Value: 0.5182860428050771 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and DistanceFromHome
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and Education
+Alternate Hypothesis: There is Significant Correlation between Attrition and Education
+
+Correlation: -0.015111167710968713 P Value: 0.3157293177118575 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and Education
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and EducationField
+Alternate Hypothesis: There is Significant Correlation between Attrition and EducationField
+
+Correlation: -0.05794031241568039 P Value: 0.00011819790920714883 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and EducationField
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and Gender
+Alternate Hypothesis: There is Significant Correlation between Attrition and Gender
+
+Correlation: 0.018125078877010238 P Value: 0.22881970951795952 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and Gender
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and JobLevel
+Alternate Hypothesis: There is Significant Correlation between Attrition and JobLevel
+
+Correlation: -0.010289713287495042 P Value: 0.49451717271828405 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and JobLevel
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and JobRole
+Alternate Hypothesis: There is Significant Correlation between Attrition and JobRole
+
+Correlation: 0.025808853490975857 P Value: 0.08658208267560671 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and JobRole
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and MaritalStatus
+Alternate Hypothesis: There is Significant Correlation between Attrition and MaritalStatus
+
+Correlation: 0.162070234657015 P Value: 2.4449148399198393e-27 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Positive Correlation between Attrition and MaritalStatus
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and MonthlyIncome
+Alternate Hypothesis: There is Significant Correlation between Attrition and MonthlyIncome
+
+Correlation: -0.031176281698115007 P Value: 0.03842748490600132 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and MonthlyIncome
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and NumCompaniesWorked
+Alternate Hypothesis: There is Significant Correlation between Attrition and NumCompaniesWorked
+
+Correlation: 0.04150332971190174 P Value: 0.00584142424757884 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Positive Correlation between Attrition and NumCompaniesWorked
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and PercentSalaryHike
+Alternate Hypothesis: There is Significant Correlation between Attrition and PercentSalaryHike
+
+Correlation: 0.03253259489105349 P Value: 0.030743386433355353 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Positive Correlation between Attrition and PercentSalaryHike
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and StockOptionLevel
+Alternate Hypothesis: There is Significant Correlation between Attrition and StockOptionLevel
+
+Correlation: -0.006838852403261513 P Value: 0.6498072937475723 
+
+P-Value >= 0.05 hence Null hypothesis is Accepted
+There is no Significant Correlation between Attrition and StockOptionLevel
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and TotalWorkingYears
+Alternate Hypothesis: There is Significant Correlation between Attrition and TotalWorkingYears
+
+Correlation: -0.17023794049182428 P Value: 4.959687383334802e-30 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and TotalWorkingYears
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and TrainingTimesLastYear
+Alternate Hypothesis: There is Significant Correlation between Attrition and TrainingTimesLastYear
+
+Correlation: -0.049430576244255 P Value: 0.0010247061915365072 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and TrainingTimesLastYear
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and YearsAtCompany
+Alternate Hypothesis: There is Significant Correlation between Attrition and YearsAtCompany
+
+Correlation: -0.1343922139899772 P Value: 3.1638831224877484e-19 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and YearsAtCompany
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and YearsSinceLastPromotion
+Alternate Hypothesis: There is Significant Correlation between Attrition and YearsSinceLastPromotion
+
+Correlation: -0.03301877514258434 P Value: 0.028330336189396753 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and YearsSinceLastPromotion
+-----------------------------------------------------------------------------------------------------------------
+
+Null Hypothesis: There is no Significant Correlation between Attrition and YearsWithCurrManager
+Alternate Hypothesis: There is Significant Correlation between Attrition and YearsWithCurrManager
+
+Correlation: -0.15619931590162847 P Value: 1.7339322652896276e-25 
+
+P-Value < 0.05 hence Null Hypothesis is rejected, Accepting Alternate Hypothesis
+There is Negative Correlation between Attrition and YearsWithCurrManager
